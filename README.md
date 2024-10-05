@@ -108,5 +108,5 @@ Esta actividad forma parte tanto de tu calificación final del curso, así como 
     * Act1.3 
     * Act2.3
     * Act3.4
-    * **Act4.3** - coloca aquí tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 4.3</span> así como el documento de reflexión individual (**ReflexAct4.3.pdf**).
+    * **Act4.3** - coloca aquí tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 4.3</span> así como el documento de reflexión individual sobre el impacto del TDA árbol en las tareas más comunes de la programación. (**ReflexAct4.3.pdf**).
     * Act5.2
